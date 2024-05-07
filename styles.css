@@ -1,5 +1,5 @@
-.body  {
-    
+.body {
+
     width: 800px;
     height: 600px;
     margin: 0 auto;
@@ -14,7 +14,7 @@
 
 }
 
-.navegacion  {
+.navegacion {
     background-color: lightgreen;
     height: 200px;
     padding: 10px 10px 10px 10px;
@@ -27,14 +27,33 @@
     padding: 10px 10px;
     margin: 5px;
 }
+
 .section {
     background-color: white;
     border: 1px solid black;
     margin: 5px;
 }
+
 .notideportes {
     margin: 5px;
 }
+
 .notientretenimiento {
     margin: 5px;
+}
+
+.barralateral {
+    background-color: lightpink;
+    width: 200px;
+    height: 200px;
+    padding: 10px 10px;
+    margin: 11px;
+
+}
+
+.piedepagina {
+    background-color: lightseagreen;
+    height: 50px;
+    padding: 10px 10px;
+    margin: 11px;
 }

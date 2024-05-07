@@ -10,6 +10,13 @@
     background-color: lightblue;
     height: 50px;
     padding: 20px 20px 20px 20px;
-    margin-top: 10px;
+    margin: 5px;
 
+}
+
+.navegacion  {
+    background-color: lightgreen;
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+    margin: 5px;
 }
